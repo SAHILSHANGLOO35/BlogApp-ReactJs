@@ -1,1 +1,1 @@
-This is the start of Mega Project using core react.
+This is the start of Mega Project using core React.
